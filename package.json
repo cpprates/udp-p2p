@@ -1,0 +1,16 @@
+{
+    "name": "p2p-file-sharing",
+    "version": "1.0.0",
+    "description": "file sharing app",
+    "main": "clientp1.js",
+    "dependencies": {
+        "chokidar": "^3.5.2",
+        "ip": "^1.1.5"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Carolina Prates, @cpprates",
+    "license": "ISC"
+}
